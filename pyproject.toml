@@ -33,3 +33,7 @@ changelog = ""
 [project.gui-scripts]
 
 [project.entry-points."spam.magical"]
+
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
