@@ -1,0 +1,35 @@
+[project]
+name = "ut_sdk_python"
+version = "0.0.1"
+description = "Umbreatek Python SDK"
+readme = "readme.md"
+requires-python = ">=3.8"
+license = {file = "LICENSE.txt"}
+keywords = []
+authors = [
+  {email = "@"},
+  {name = "Jimy"}
+]
+maintainers = [
+  {name = "Jimy", email = "@"}
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python"
+]
+
+dependencies = []
+
+[project.optional-dependencies]
+
+[project.urls]
+homepage = "https://github.com/UmbraTek/ut_sdk_python"
+documentation = "https://umbratek.com/wiki/en/#!utra/utra_api_python.md"
+repository = "https://github.com/UmbraTek/ut_sdk_python"
+changelog = ""
+
+[project.scripts]
+
+[project.gui-scripts]
+
+[project.entry-points."spam.magical"]
