@@ -7,6 +7,6 @@ setup(
     url='https://github.com/UmbraTek/ut_sdk_python',
     license='',
     author='',
-    author_email='@',
+    author_email='info@umbratek.com',
     description=''
 )
