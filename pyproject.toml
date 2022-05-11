@@ -3,7 +3,7 @@ name = "ut_sdk_python"
 version = "0.0.1"
 description = "Umbreatek Python SDK"
 readme = "readme.md"
-requires-python = ">=3.8"
+requires-python = ">=3.6"
 license = {file = "LICENSE.txt"}
 keywords = []
 authors = [
