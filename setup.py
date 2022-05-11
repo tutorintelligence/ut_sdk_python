@@ -2,11 +2,11 @@ from setuptools import setup
 
 setup(
     name='ut_sdk_python',
-    version='0.1',
+    version='1.1',
     packages=['utapi'],
     url='https://github.com/UmbraTek/ut_sdk_python',
-    license='',
-    author='',
+    license='MIT',
+    author='Jimy',
     author_email='info@umbratek.com',
-    description=''
+    description='Umbratek STK'
 )
